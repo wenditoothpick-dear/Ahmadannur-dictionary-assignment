@@ -1,0 +1,14 @@
+C:\assingment\New folder\home@work\obj\Debug\net8.0\home@work.GeneratedMSBuildEditorConfig.editorconfig
+C:\assingment\New folder\home@work\obj\Debug\net8.0\home@work.AssemblyInfoInputs.cache
+C:\assingment\New folder\home@work\obj\Debug\net8.0\home@work.AssemblyInfo.cs
+C:\assingment\New folder\home@work\obj\Debug\net8.0\home@work.csproj.CoreCompileInputs.cache
+C:\assingment\New folder\home@work\bin\Debug\net8.0\home@work.exe
+C:\assingment\New folder\home@work\bin\Debug\net8.0\home@work.deps.json
+C:\assingment\New folder\home@work\bin\Debug\net8.0\home@work.runtimeconfig.json
+C:\assingment\New folder\home@work\bin\Debug\net8.0\home@work.dll
+C:\assingment\New folder\home@work\bin\Debug\net8.0\home@work.pdb
+C:\assingment\New folder\home@work\obj\Debug\net8.0\home@work.dll
+C:\assingment\New folder\home@work\obj\Debug\net8.0\refint\home@work.dll
+C:\assingment\New folder\home@work\obj\Debug\net8.0\home@work.pdb
+C:\assingment\New folder\home@work\obj\Debug\net8.0\home@work.genruntimeconfig.cache
+C:\assingment\New folder\home@work\obj\Debug\net8.0\ref\home@work.dll
